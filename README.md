@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gamal Ramadan
 - 👀 I’m interested in web design , web development  
 - 🌱 I’m currently learning (html, css, js , Bootstrap, Tailwindcss, Flowbite , React, Vue , Database, sql , Php , Python , Laravel)
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
